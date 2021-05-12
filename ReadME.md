@@ -1,3 +1,3 @@
 # SelProject
 
-Create Testcase from Use case
+Create Testcase from Use case.
